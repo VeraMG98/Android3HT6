@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android3 Lesson6</string>
+    <string name="apply">apply</string>
+    <string name="sum">+</string>
+    <string name="sub">-</string>
+    <string name="mult">*</string>
+    <string name="div">/</string>
+    <string name="words">One Two</string>
+</resources>
